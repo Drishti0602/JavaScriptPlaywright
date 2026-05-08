@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+set -e
+SCRIPT_DIR="$(git rev-parse --show-toplevel)/scripts"
+remote_name="$1"
+remote_url="$2"
+node "$SCRIPT_DIR/update-readme.js" push "$remote_name" "$remote_url"
+if ! git diff --quiet -- README.md; then
+  git add README.md
+  git commit --no-verify -m "Update README with latest push info"
+fi

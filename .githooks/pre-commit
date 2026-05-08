@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+set -e
+SCRIPT_DIR="$(git rev-parse --show-toplevel)/scripts"
+node "$SCRIPT_DIR/update-readme.js" commit
+if ! git diff --quiet -- README.md; then
+  git add README.md
+fi
