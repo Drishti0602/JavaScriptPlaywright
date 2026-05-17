@@ -1,0 +1,3 @@
+# Use union merge driver for JavaScript files to preserve both sides when conflicts occur
+*.js merge=union
+*.md merge=union
