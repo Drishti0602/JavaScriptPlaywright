@@ -1,6 +1,6 @@
 // Template literally. 
 
-let firstname = "Prrammod";
+let firstname = "ddrrishti";
 let fullname = `Hi ${firstname} Dutta`;
 console.log(fullname);
 

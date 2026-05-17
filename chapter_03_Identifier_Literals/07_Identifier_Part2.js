@@ -1,9 +1,9 @@
-var name = "Pramod";
+var name = "Drishti";
 
-var firstName = "Pramod";
-var lastName = "Dutta"; // CamelCase
+var firstName = "Drishti";
+var lastName = "Gupta"; // CamelCase
 
-var first_name = "Amit"; // Snake Case
+var first_name = "Shanu"; // Snake Case
 
 // Naming Conventions (Cases)
 // ============================================

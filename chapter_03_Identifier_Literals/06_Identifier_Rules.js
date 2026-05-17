@@ -6,8 +6,8 @@ var ab123 = 34;
 
 // var 123 = 123;
 
-var Name = "pramod";
-var name = "Amit";
+var Name = "drishti";
+var name = "Shanu";
 //var pramod dutta = "hello";
 var pramod_dutta = "hello";
 var pramod$dutta = "hello";

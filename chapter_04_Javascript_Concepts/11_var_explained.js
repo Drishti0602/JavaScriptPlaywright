@@ -6,7 +6,7 @@ var a = 10;// Global SCOPE
 console.log(a);
 
 function printHello() {
-    console.log("Hello TheTestingAcademy!");
+    console.log("Hello Drishti madam!");
     var a = 20; // Local Scope
     console.log(a);
     if (true) {
