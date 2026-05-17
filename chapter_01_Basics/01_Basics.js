@@ -1,5 +1,2 @@
-console.log("Hello, SDET Drishti this side");
+console.log("Hello The Testing Academy");
 let x = 10;
-console.log(process.platform);
-console.log(process.arch);
-console.log(process.version);
