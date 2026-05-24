@@ -1,0 +1,10 @@
+// ✅ Question 2 — Test Case Pass/Fail Verdict
+
+let expected = "Login Successful";
+let actual = "Invalid Credentials";
+
+if (expected === actual) {
+    console.log("✅ Test Passed");
+} else {
+    console.log(`❌ Test Failed — Expected: ${expected}, Got: ${actual}`);
+}
