@@ -117,6 +117,78 @@ LearnPlaywrightBatch2x/
 │   ├── 43_Incre_Decre_Op.js            # `++` / `--` pre/post increment and decrement
 │   └── 44_Null_Op.js                   # Nullish operators `??` and optional chaining `?.`
 │
+├── chapter_07_if_else/                 ✅ Conditional logic — if / else, nested conditions
+│   ├── 47_if.js
+│   ├── 48_IF_ESLE.js
+│   ├── 49_If_elseif_else.js
+│   ├── 50_REAL_IF_ELSE.js
+│   ├── 51_API_IF_ELSE.js
+│   ├── 52_IQ_IF_ELSE.js
+│   ├── 53_IF_ELSE_real.js
+│   ├── 54_IQ.js
+│   ├── 55_IE.js
+│   ├── 56_IQ_EVEN_ODD.js
+│   ├── 57_Grade_Calc.js
+│   ├── 58_LEAP_YEAR.js
+│   └── task_if_else.js
+│
+├── chapter_08_Switch_Statement/         ✅ Switch statements & cases
+│   ├── 59_Switch.js
+│   ├── 60_No_Break.js
+│   ├── 61_Default.js
+│   ├── 62_REAL_TIME_EXAMPLE.js
+│   ├── 63_Switch_Group.js
+│   ├── 64_IQ.js
+│   ├── 65_IQ2.js
+│   ├── 66_IQ3.js
+│   └── 67_IQ4.js
+│
+├── chapter_09_UserInput/               ✅ User input patterns
+│   ├── 68_User_Input.js
+│   ├── 69_Node_readline.js
+│   └── 70_prompt_sync.js
+│
+├── chapter_10_Loops/                   ✅ Loops — for, while, do/while
+│   ├── 71_For_loop.js
+│   ├── 72_For_loop.js
+│   ├── 73_For_Loop2.js
+│   ├── 74_IQ.js
+│   ├── 75_For_OF_IN_EACH.js
+│   ├── 76_While.js
+│   ├── 77_Do_While.js
+│   ├── 78_Do_While.js
+│   ├── 79_IQ.js
+│   ├── 80_IQ.js
+│   ├── 81_IQ.js
+│   ├── 82_IQ.js
+│   ├── task_loops1.js
+│   └── task_loops2.js
+│
+├── chapter_11_Arrays/                  ✅ Arrays — creation, traversal, search, transform
+│   ├── 83_array_basic.js
+│   ├── 84_Access_Array.js
+│   ├── 85_Array_add_remove.js
+│   ├── 86_Array_add_remove2.js
+│   ├── 87_RealExample.js
+│   ├── 88_Search.js
+│   ├── 89_Traverse.js
+│   ├── 90_TransformArray.js
+│   ├── 91_Task_Array.js
+│   ├── 92_Arrays.js
+│   ├── 93_Array_Slicing.js
+│   ├── 94_Concat_array.js
+│   └── 95_Array_Checking.js
+│
+├── chapter_12_Funtions/                ✅ Functions — declarations, params, return values, arrows
+│   ├── 96_Functions.js
+│   ├── 97_Type1_Fn_Basic_Functions.js
+│   ├── 98_Type2_Fn_With_Param_No_Return.js
+│   ├── 99_Type3_Fn_without_Param_Return_Type.js
+│   ├── 100_Type4_Fn_With_Param_With_Return.js
+│   ├── 101_Template_literal.js
+│   ├── 102_Fn_Expression.js
+│   └── 103_Arrow_Fn.js
+│
 └── README.md                           👋 You are here
 ```
 
