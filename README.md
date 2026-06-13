@@ -1,5 +1,4 @@
-# Learn Playwright Batch 2x
-
+# Learn Playwright 
 <div align="center">
 
 ![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=playwright&logoColor=white)
@@ -18,11 +17,8 @@
 
 ---
 
-## Welcome to Batch 2x
-
-This repository is your **week-by-week course companion** for the LearnPlaywright Batch 2x cohort by [The Testing Academy](https://thetestingacademy.com). Code shown in lectures lands here so you can read it, run it, and practice on it.
-
-> Content gets added **as we progress through the batch** — so check back after every class.
+## Welcome 
+> Content gets added **as we progress through** — so check back after every class.
 
 ### What you'll learn
 
